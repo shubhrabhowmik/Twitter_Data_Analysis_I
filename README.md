@@ -55,30 +55,11 @@ Text Mining, Scraping, and Sentiment Analysis with R
 [189] "laravel"            "day"                "education"          "httpstco1beeqrpnje"
 [193] "httpstcon6r09ckcsc" "tensorflow"         "lms"                "teacher"  
 
- # associations
-> findAssocs(udemytdm, 'android', 0.60)
-$android
-  httpstcote9810twur         implementing     pictureinpicture                  pip 
-                   1                    1                    1                    1 
-🔗httpstcomleobcaad8 
-                   1 
                    
                    
 # plot(udemyfit)
 ![image](https://user-images.githubusercontent.com/62785524/138910874-28d99b3d-f06e-4ebc-9ee6-d5c4b0e96cce.png)
 
-
-# to calculate a certain number of groups
-> cutree(udemyfit, k=6)
-       course          free         udemy            🇬🇧       courses           amp 
-            1             2             3             2             4             1 
-        learn      learning       machine       bylilyv      featured          link 
-            1             5             5             1             1             6 
-100daysofcode         hours            🆓          2021        python       release 
-            1             2             6             6             1             6 
-     students      complete          data          deep       science   udemycoupon 
-            6             1             1             1             1             1 
-            
             
 # we can even color the 6 groups and plot them
 rect.hclust(udemyfit, k=6, border="red")
