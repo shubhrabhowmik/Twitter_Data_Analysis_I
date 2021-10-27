@@ -14,10 +14,10 @@ install.packages("httr")
 library("httr")
 
 # all this info is obtained for the Twitter developer account
-consumer_key = "ydK8pAFzVnu7107yqgEcL5GwS"
-consumer_secret = "o7xPhcbEruDjN5GDsTJxRwZUAW4s4uDfPkWFmiKcr6GLQy4Lom"
-access_token = "1039967328841039872-1owPPGUud9KIoCNIcM9aTc4kd6zszT"
-access_secret = "QDQHU4LQMhAUJDqTkxbsbOJIVfGBCBu0LmNOU00G8a0Y9"
+consumer_key = "get it from Twitter devloper account > Keys and token"
+consumer_secret = "get it from Twitter devloper account > Keys and token"
+access_token = "get it from Twitter devloper account > Keys and token"
+access_secret = "get it from Twitter devloper account > Keys and token"
 
 # we are using the setup_twitter_oauth fuction
 ?setup_twitter_oauth
