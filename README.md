@@ -1,5 +1,5 @@
 # Twitter_Data_Analysis
-Text Mining, Scraping, and Sentiment Analysis with R
+Text Mining and Scraping with R
 
 ![image](https://user-images.githubusercontent.com/62785524/139521452-ceacf354-e5b7-4576-9ce9-c445e389df95.png)
 
