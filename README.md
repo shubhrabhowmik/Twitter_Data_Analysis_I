@@ -1,7 +1,7 @@
 # Twitter_Data_Analysis
 Text Mining, Scraping, and Sentiment Analysis with R
 
-![image](https://user-images.githubusercontent.com/62785524/138910374-1a0876d7-ca0f-49e6-998a-748b76e8a0a1.png)
+![image](https://user-images.githubusercontent.com/62785524/139521452-ceacf354-e5b7-4576-9ce9-c445e389df95.png)
 
 # frequent terms
 > findFreqTerms(udemytdm, lowfreq=11)
